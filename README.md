@@ -8,8 +8,8 @@ Este proyecto permite generar formularios dinámicamente a partir de un archivo 
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
-   cd tu-repo
+   git clone https://github.com/beccaribenjamin/formulario-dinamico_vue_ts.git
+   cd formulario-dinamico_vue_ts
     ```
 2. Instalar dependencia y correr el servidor en local:
    ```bash
